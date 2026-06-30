@@ -1,0 +1,14 @@
+FAST API
+
+What is API?
+How make interactions b/w frontend & backend?
+What is JSON?
+What is HTTP Request & HTTP Response
+
+
+
+#### 3 Tier Architecture:
+
+-> Presentation Layer
+-> Application Layer
+-> Data Layer
